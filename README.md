@@ -13,15 +13,10 @@ CG = Computer-generated fake reviews.
 Machine Learning Algorithms Used here are as follows
 
 
-Logistic Regression
-
-K Nearest Neighbors
-
-Support Vector Classifier
-
-Decision Tree Classifier
-
-Random Forests Classifier
-
-Multinomial Naive Bayes
+1.Logistic Regression
+2.K Nearest Neighbors
+3.Support Vector Classifier
+4.Decision Tree Classifier
+5.Random Forests Classifier
+6.Multinomial Naive Bayes
 
